@@ -1,5 +1,5 @@
 # Development notes
-Currated list of blogging tips title
+Curated list of blogging tips title
 
 # Web Development
 
