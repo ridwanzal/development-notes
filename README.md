@@ -23,6 +23,10 @@ Currated list of blogging tips title
 - Why Laravel ?
 - Codeigniter 3 is one of the great PHP MVC framework
 - Headfirst OpenAPI
+- Web development with vite-vanillajs
+- Web development with vite-vuejs
+- React and Preact a quick comparison
+
 
 # Deployment, Containers, CI/CD 
 
@@ -35,3 +39,5 @@ Currated list of blogging tips title
 
 - How to install mongodb community edition on MacOS
 - Install graphql
+- Install mysql server on ubuntu LTS
+- Install 
