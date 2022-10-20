@@ -31,6 +31,8 @@ Curated list of blogging tips title
 
 # Deployment, Containers, CI/CD 
 
+- Install Apache on Ubuntu Server (LTS)
+- Install Nginx on Ubuntu Server (LTS)
 - How to install docker on MacOS M1 Chip
 - Configure firewall to access API publicaly
 - Install HAProxy for fastify
