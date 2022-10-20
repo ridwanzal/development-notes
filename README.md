@@ -26,6 +26,7 @@ Curated list of blogging tips title
 - Web development with vite-vanillajs
 - Web development with vite-vuejs
 - React and Preact a quick comparison
+- Javascript obfuscation 
 
 
 # Deployment, Containers, CI/CD 
@@ -33,6 +34,7 @@ Curated list of blogging tips title
 - How to install docker on MacOS M1 Chip
 - Configure firewall to access API publicaly
 - Install HAProxy for fastify
+- How to create a simple workflow for PHP project on public server
 
 
 # Database, MemCache, Relational & NoSQL
@@ -40,4 +42,6 @@ Curated list of blogging tips title
 - How to install mongodb community edition on MacOS
 - Install graphql
 - Install mysql server on ubuntu LTS
-- Install 
+- Install postgresql in MacOS
+- How to integrate redis with nodejs
+- How to create simple API with Firebase
