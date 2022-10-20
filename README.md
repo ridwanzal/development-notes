@@ -1,5 +1,5 @@
 # Development notes
-Curated list of blogging tips title
+Curated list of development tips for your web & mobile development
 
 # Web Development
 
