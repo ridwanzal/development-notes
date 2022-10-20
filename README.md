@@ -26,7 +26,8 @@ Curated list of blogging tips title
 - Web development with vite-vanillajs
 - Web development with vite-vuejs
 - React and Preact a quick comparison
-- Javascript obfuscation 
+- Javascript obfuscation
+- Using helper on Codeigniter v3
 
 
 # Deployment, Containers, CI/CD 
