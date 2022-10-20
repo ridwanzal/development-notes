@@ -16,7 +16,22 @@ Currated list of blogging tips title
 - What is frontend agnostic
 - Getting started with Nextjs
 - React library sucks
+- JQuery is dead
+- Getting started with TypeScript
+- Headfirst Django framework
+- Compare SaSS/SCSS with PostCSS
+- Why Laravel ?
+- Codeigniter 3 is one of the great PHP MVC framework
+- Headfirst OpenAPI
 
 # Deployment, Containers, CI/CD 
 
-- How to install docker on Mac-OS M1 Chip
+- How to install docker on MacOS M1 Chip
+- Configure firewall to access API publicaly
+- Install HAProxy for fastify
+
+
+# Database, MemCache, Relational & NoSQL
+
+- How to install mongodb community edition on MacOS
+- Install graphql
