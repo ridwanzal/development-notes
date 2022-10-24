@@ -28,6 +28,7 @@ Curated list of development tips for your web & mobile development
 - React and Preact a quick comparison
 - Javascript obfuscation
 - Using helper on Codeigniter v3
+- Good reasons for learning React
 
 
 # Deployment, Containers, CI/CD 
