@@ -29,6 +29,10 @@ Curated list of development tips for your web & mobile development
 - Javascript obfuscation
 - Using helper on Codeigniter v3
 - Good reasons for learning React
+- Structuring react project
+- React useState
+- React useEffect
+- Express compare to Fastify
 
 
 # Deployment, Containers, CI/CD 
